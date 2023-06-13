@@ -1,7 +1,7 @@
       @Ammardev494
 - 👋 Hi, I’m Ammmar Shafiq
 - 👀 I’m interested in App Development & Robots
-- 🌱 I’m currently learning Flutter App Development 
+- 🌱 I’m currently learning Flutter
 - 📫 Reach me Email: ammardev494@gmail.com
 
 <!---
