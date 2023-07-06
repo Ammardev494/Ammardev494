@@ -1,7 +1,8 @@
       @Ammardev494
 - 👋 Hi, I’m Ammar Shafiq
+- 💻 Developer & Designer 
 - 👀 I’m working on App Development & Robots
-- 🌱 My current job is App Development (Flutter)
+- 🌱 My current job is App Developer (Flutter)
 - 📫 Reach me Email: ammardev494@gmail.com
 
 <!---
